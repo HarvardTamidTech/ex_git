@@ -2,12 +2,15 @@ print('git excersize')
 
 #make a function that takes in 2 ints, compares them, prints out smaller
 def cmp_less(num1, num2):
-	print('to do')
+        if num1 < num2
+                print(num1)
+        else print(num2)
 
 
 #make a function that takes in a string and prints out first item
 def print_first(str1):
-	print('to do')
+	print(str1[0])
 
 cmp_less(1, 2)
 print_first("test")
+print_first("Adolfo")
